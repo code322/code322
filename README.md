@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm a Web Development Enthusiast 💻Developer ✈️Traveller 🎹Keyboardist 🎛️Music Producer 💪Fitness 💹Digital Marketer
+I'm a Software Developer Enthusiast 
+💻 Developer 
+✈️ Traveller 
+🎹 Keyboardist 
+🎛️ Music Producer 
+💪 Fitness 
+💹 Digital Marketer
 
 🛠 Tech
 
