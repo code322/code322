@@ -1,11 +1,17 @@
 ### Hi there 👋
 
 I'm a Software Developer Enthusiast 
+<br/>
 💻 Developer 
+<br/>
 ✈️ Traveller 
+<br/>
 🎹 Keyboardist 
+<br/>
 🎛️ Music Producer 
+<br/>
 💪 Fitness 
+<br/>
 💹 Digital Marketer
 
 🛠 Tech
